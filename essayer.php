@@ -5,7 +5,7 @@
     <title>Projetjuin</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <link rel="stylesheet" href="stylesheet.css">
+  <link rel="stylesheet" href="stylesheet_jeu.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   </head>
@@ -16,9 +16,9 @@
     </div>
       <div class="containerdv">
     <div id="divg">
-      <h1>Essayer Shape Finder Gratuitement!</h1>
-      <img src="geometryshapes.gif"/><br>
-      <button type="button" name="button"><a href="essayer.php">Essayer Maintenant</a></button>
+      <h1>Trouve les cercles</h1><br>
+      <img src="img/formes.jpg"/><br>
+      <button type="button" name="button"><a href="result.php">Valider</a></button>
     </div>
     <div id="divd">
       <h1>Inscription / Connexion</h1>
